@@ -1,0 +1,21 @@
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\bin\Debug\net10.0-windows\Project Programming WindowsForm.exe
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\bin\Debug\net10.0-windows\Project Programming WindowsForm.deps.json
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\bin\Debug\net10.0-windows\Project Programming WindowsForm.runtimeconfig.json
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\bin\Debug\net10.0-windows\Project Programming WindowsForm.dll
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\bin\Debug\net10.0-windows\Project Programming WindowsForm.pdb
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project_Programming_WindowsForm.AddCarPage.resources
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project_Programming_WindowsForm.Form1.resources
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project_Programming_WindowsForm.HomePage.resources
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project_Programming_WindowsForm.PriceCarPage.resources
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project_Programming_WindowsForm.SearchPage.resources
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project Programming WindowsForm.csproj.GenerateResource.cache
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project Programming WindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project Programming WindowsForm.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project Programming WindowsForm.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project Programming WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project Programming WindowsForm.dll
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\refint\Project Programming WindowsForm.dll
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project Programming WindowsForm.pdb
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project Programming WindowsForm.genruntimeconfig.cache
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\ref\Project Programming WindowsForm.dll
+C:\Users\LOQ\Desktop\Programming\H.W University\Project Programming WindowsForm\Project Programming WindowsForm\obj\Debug\net10.0-windows\Project_Programming_WindowsForm.Properties.Resources.resources
